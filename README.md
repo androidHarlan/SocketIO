@@ -1,7 +1,7 @@
 # SocketIO
 Android使用socket.io实现即时通讯
 Socket.IO-client Java
-
+项目在https://github.com/socketio/socket.io-client-java
 Build Status
 
 This is the Socket.IO v1.x Client Library for Java, which is simply ported from the JavaScript client.
